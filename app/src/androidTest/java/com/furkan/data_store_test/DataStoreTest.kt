@@ -8,7 +8,7 @@ import androidx.datastore.preferences.preferencesDataStoreFile
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
-import com.data_store_test.IDataStoreRepository
+import com.furkan.test_codes.data_store_test.IDataStoreRepository
 import com.furkan.data_store_test.DataStoreHelper.Companion.MY_INT
 import com.furkan.data_store_test.DataStoreHelper.Companion.MY_STRING
 import com.furkan.data_store_test.DataStoreHelper.Companion.TEST_DATASTORE_NAME

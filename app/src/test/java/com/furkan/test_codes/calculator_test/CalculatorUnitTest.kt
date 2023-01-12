@@ -11,7 +11,6 @@ class CalculatorUnitTest {
         assertEquals(20,result)
     }
 
-
     @Test
     fun subtractTest(){
         val calculator = Calculator()

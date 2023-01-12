@@ -1,4 +1,4 @@
-package com.data_store_test
+package com.furkan.test_codes.data_store_test
 
 import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.Preferences

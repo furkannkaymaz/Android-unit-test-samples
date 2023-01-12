@@ -59,7 +59,6 @@ class LoginViewModelTest {
         Assert.assertFalse(result.value)
     }
 
-
     @Test
     fun `empty password return false`() = runTest(
     ) {
